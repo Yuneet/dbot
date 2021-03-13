@@ -1,6 +1,5 @@
 discord.py
 asyncio
-commands
 youtube_dl
 os
 re
