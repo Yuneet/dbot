@@ -157,5 +157,5 @@ async def play(ctx, url : str):
 
 #음악봇
 
-app.run('ODE3MzQ2NzM2MjQ2NDg5MTE5.YEILdw.LM1_anKl0yQVGtJQsWpHfiY5G04')
+app.run(os.environ['token'])
 
