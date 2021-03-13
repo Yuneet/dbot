@@ -1,0 +1,6 @@
+discord.py
+asynocio
+commands
+youtube_dl
+os
+re
